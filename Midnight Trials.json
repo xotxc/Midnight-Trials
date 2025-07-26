@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1753517298,
+	"Version": 1753561163,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "2x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -106,6 +106,7 @@
 				"255",
 				"149",
 				"150",
+				"154",
 				"155",
 				"244",
 				"167",
@@ -3614,7 +3615,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				2
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -3706,7 +3708,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -3790,7 +3792,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -3880,7 +3882,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -4070,8 +4072,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				2
+				4
 			],
 			"KillerOfferings": [
 				5
@@ -4370,7 +4371,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -4464,7 +4465,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -4638,7 +4639,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				2
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -4725,7 +4727,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -4910,7 +4912,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				2
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -5002,7 +5005,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -5185,7 +5188,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -5276,8 +5279,6 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
-				2,
 				5
 			],
 			"KillerOfferings": [
@@ -5365,7 +5366,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -5454,7 +5455,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				2
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -5534,7 +5536,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				2
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -5622,7 +5625,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -5717,7 +5720,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -6034,7 +6037,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -6125,7 +6128,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -6322,8 +6325,6 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
-				2,
 				5
 			],
 			"KillerOfferings": [
@@ -6404,7 +6405,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				2
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -6546,7 +6548,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"5"
 			],
 			"BalanceTiers": [
 				0
@@ -6621,7 +6623,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -6874,7 +6876,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -6961,7 +6963,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				2
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -7048,7 +7051,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -7136,7 +7139,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -7218,7 +7221,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
@@ -7311,7 +7314,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				1,
+				0,
 				2,
 				5
 			],
