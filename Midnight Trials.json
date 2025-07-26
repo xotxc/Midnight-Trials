@@ -2,7 +2,7 @@
 	"Name": "Midnight Trials",
 	"Version": 1753517298,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "2x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint",
+	"GlobalNotes": "2x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -5728,7 +5728,7 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"4",
 				"43",
