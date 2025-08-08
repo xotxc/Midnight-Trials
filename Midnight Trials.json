@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1754397680,
+	"Version": 1754684073,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "2x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -41,6 +41,7 @@
 				"280",
 				"268",
 				"267",
+				"46",
 				"49",
 				"51",
 				"262",
@@ -3633,6 +3634,7 @@
 				"38",
 				"39",
 				"44",
+				"261",
 				"50",
 				"57",
 				"61",
@@ -3827,7 +3829,8 @@
 				79,
 				76,
 				70,
-				75
+				75,
+				77
 			],
 			"ItemWhitelist": [
 				0,
