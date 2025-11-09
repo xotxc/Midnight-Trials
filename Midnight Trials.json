@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1760233101,
+	"Version": 1762714066,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "2x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -710,6 +710,7 @@
 				"115",
 				"116",
 				"121",
+				"124",
 				"126",
 				"254",
 				"130"
@@ -1292,6 +1293,7 @@
 				"116",
 				"120",
 				"121",
+				"124",
 				"126",
 				"127",
 				"128",
@@ -3613,7 +3615,8 @@
 				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -3708,7 +3711,8 @@
 				"6"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -3792,7 +3796,8 @@
 				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -3885,7 +3890,8 @@
 				"32"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				6
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -4283,7 +4289,8 @@
 				"9"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				6
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -4374,7 +4381,8 @@
 				"6"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -4468,7 +4476,8 @@
 				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				6
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -4641,7 +4650,8 @@
 				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -4658,12 +4668,14 @@
 				"34",
 				"36",
 				"38",
+				"50",
 				"76",
 				"80",
 				"96",
 				"109",
 				"110",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -4911,7 +4923,8 @@
 				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -4937,7 +4950,8 @@
 				"64",
 				"68",
 				"78",
-				"103"
+				"103",
+				"124"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
@@ -5104,7 +5118,8 @@
 				"4"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -5127,6 +5142,7 @@
 				"95",
 				"110",
 				"121",
+				"124",
 				"128"
 			],
 			"SurvivorComboPerkBans": [],
@@ -5188,7 +5204,8 @@
 				"20"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				6
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -5277,7 +5294,8 @@
 				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -5308,6 +5326,7 @@
 				"110",
 				"112",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -5366,7 +5385,8 @@
 				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -5454,7 +5474,8 @@
 				"5"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -5472,11 +5493,13 @@
 				"36",
 				"38",
 				"44",
+				"50",
 				"57",
 				"76",
 				"96",
 				"109",
 				"121",
+				"124",
 				"127"
 			],
 			"SurvivorComboPerkBans": [],
@@ -5535,7 +5558,8 @@
 				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -5552,6 +5576,7 @@
 				"34",
 				"36",
 				"38",
+				"50",
 				"76",
 				"80",
 				"96",
@@ -5559,6 +5584,7 @@
 				"109",
 				"110",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -5623,7 +5649,8 @@
 				"4"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -5941,7 +5968,8 @@
 				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -6035,7 +6063,8 @@
 				"5"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -6062,6 +6091,7 @@
 				"109",
 				"110",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -6224,7 +6254,8 @@
 				"34"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				6
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -6317,7 +6348,8 @@
 				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -6333,10 +6365,12 @@
 				"34",
 				"36",
 				"38",
+				"50",
 				"76",
 				"96",
 				"109",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -6529,7 +6563,8 @@
 				"5"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -6781,7 +6816,8 @@
 				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -6797,6 +6833,7 @@
 				"34",
 				"36",
 				"38",
+				"50",
 				"57",
 				"61",
 				"76",
@@ -6805,6 +6842,7 @@
 				"110",
 				"112",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -6865,7 +6903,8 @@
 				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				5
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -6881,6 +6920,7 @@
 				"36",
 				"38",
 				"44",
+				"50",
 				"57",
 				"61",
 				"65",
@@ -6951,7 +6991,8 @@
 				"9"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -7041,7 +7082,8 @@
 				"0"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -7058,12 +7100,14 @@
 				"36",
 				"38",
 				"39",
+				"50",
 				"57",
 				"76",
 				"96",
 				"109",
 				"110",
 				"121",
+				"124",
 				"127",
 				"128"
 			],
@@ -7127,7 +7171,8 @@
 				"6"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -7141,8 +7186,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"38",
-				"50",
 				"69",
+				"124",
 				"128"
 			],
 			"SurvivorComboPerkBans": [],
@@ -7209,7 +7254,8 @@
 				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0
@@ -7296,7 +7342,7 @@
 		{
 			"Name": "The Krasue",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
