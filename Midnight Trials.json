@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1763699208,
+	"Version": 1764359787,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "2x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -214,13 +214,6 @@
 					"177"
 				]
 			]
-		},
-		{
-			"Name": "Midnight Trials General",
-			"SurvivorIndvPerkBans": [],
-			"KillerIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
 		},
 		{
 			"Name": "S Tier Balancing",
@@ -961,10 +954,6 @@
 					"159"
 				],
 				[
-					"143",
-					"160"
-				],
-				[
 					"146",
 					"156"
 				],
@@ -1127,10 +1116,6 @@
 				[
 					"207",
 					"239"
-				],
-				[
-					"160",
-					"210"
 				],
 				[
 					"215",
@@ -1540,10 +1525,6 @@
 					"159"
 				],
 				[
-					"143",
-					"160"
-				],
-				[
 					"146",
 					"156"
 				],
@@ -1706,10 +1687,6 @@
 				[
 					"207",
 					"239"
-				],
-				[
-					"160",
-					"210"
 				],
 				[
 					"215",
@@ -2111,10 +2088,6 @@
 					"159"
 				],
 				[
-					"143",
-					"160"
-				],
-				[
 					"146",
 					"156"
 				],
@@ -2277,10 +2250,6 @@
 				[
 					"207",
 					"239"
-				],
-				[
-					"160",
-					"210"
 				],
 				[
 					"215",
@@ -2633,10 +2602,6 @@
 					"159"
 				],
 				[
-					"143",
-					"160"
-				],
-				[
 					"146",
 					"156"
 				],
@@ -2799,10 +2764,6 @@
 				[
 					"207",
 					"239"
-				],
-				[
-					"160",
-					"210"
 				],
 				[
 					"215",
@@ -3180,10 +3141,6 @@
 					"159"
 				],
 				[
-					"143",
-					"160"
-				],
-				[
 					"146",
 					"156"
 				],
@@ -3346,10 +3303,6 @@
 				[
 					"207",
 					"239"
-				],
-				[
-					"160",
-					"210"
 				],
 				[
 					"215",
@@ -3737,7 +3690,12 @@
 			"KillerWhitelistedPerks": [
 				"172"
 			],
-			"KillerWhitelistedComboPerks": [],
+			"KillerWhitelistedComboPerks": [
+				[
+					"210",
+					"160"
+				]
+			],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				54
@@ -3811,8 +3769,8 @@
 			],
 			"KillerComboPerkBans": [
 				[
-					"143",
-					"210"
+					"210",
+					"160"
 				]
 			],
 			"SurvivorIndvPerkBans": [],
@@ -5658,8 +5616,8 @@
 			],
 			"KillerComboPerkBans": [
 				[
-					"143",
-					"210"
+					"210",
+					"160"
 				]
 			],
 			"SurvivorIndvPerkBans": [],
