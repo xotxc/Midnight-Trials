@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1767875778,
+	"Version": 1767876324,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -90,7 +90,6 @@
 				"287",
 				"120",
 				"122",
-				"126",
 				"254",
 				"130"
 			],
@@ -3870,13 +3869,11 @@
 				"6",
 				"52",
 				"7",
-				"8",
 				"258",
 				"104",
 				"10",
 				"11",
 				"13",
-				"14",
 				"15",
 				"16",
 				"17",
@@ -3921,7 +3918,6 @@
 				"59",
 				"61",
 				"62",
-				"63",
 				"64",
 				"65",
 				"66",
@@ -3957,7 +3953,6 @@
 				"275",
 				"105",
 				"106",
-				"107",
 				"108",
 				"109",
 				"110",
@@ -3987,21 +3982,24 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
+				91,
 				98,
-				97,
 				84,
 				95,
-				94,
-				86,
-				96
+				94
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				5,
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -5968,8 +5966,7 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				498,
-				497,
-				495
+				497
 			],
 			"ItemWhitelist": [
 				0,
