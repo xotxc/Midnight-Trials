@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1778629057,
+	"Version": 1778630203,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -4627,11 +4627,11 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"21",
 				"246",
 				"288",
 				"34",
-				"36",
 				"38",
 				"50",
 				"76",
@@ -4642,7 +4642,8 @@
 				"121",
 				"124",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -4816,7 +4817,6 @@
 				"13",
 				"21",
 				"34",
-				"36",
 				"38",
 				"44",
 				"50",
@@ -4829,7 +4829,8 @@
 				"121",
 				"124",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -5375,6 +5376,7 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"13",
 				"21",
 				"34",
@@ -5459,11 +5461,11 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"13",
 				"21",
 				"246",
 				"34",
-				"36",
 				"38",
 				"44",
 				"50",
@@ -5473,7 +5475,8 @@
 				"109",
 				"121",
 				"124",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -5825,14 +5828,15 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"16",
 				"21",
-				"36",
 				"65",
 				"80",
 				"98",
 				"121",
 				"127",
+				"36",
 				"130"
 			],
 			"SurvivorComboPerkBans": [],
@@ -6048,6 +6052,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"21",
 				"246",
 				"273",
@@ -6246,7 +6251,6 @@
 				"246",
 				"273",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -6263,7 +6267,8 @@
 				"112",
 				"121",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -6334,10 +6339,10 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"13",
 				"21",
 				"34",
-				"36",
 				"38",
 				"50",
 				"76",
@@ -6346,7 +6351,8 @@
 				"121",
 				"124",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -6717,17 +6723,18 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"13",
 				"21",
 				"246",
 				"34",
-				"36",
 				"38",
 				"76",
 				"96",
 				"121",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -6891,11 +6898,11 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"13",
 				"21",
 				"246",
 				"34",
-				"36",
 				"38",
 				"44",
 				"50",
@@ -6909,7 +6916,8 @@
 				"112",
 				"121",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -7170,12 +7178,12 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"36",
 				"38",
 				"69",
 				"121",
 				"124",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
