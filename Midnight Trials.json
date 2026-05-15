@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1778631149,
+	"Version": 1778811035,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -4255,7 +4255,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"54"
 			],
 			"BalanceTiers": [
 				0,
@@ -6805,7 +6805,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"8"
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -6897,7 +6897,7 @@
 			"KillerNotes": "\n",
 			"IsDisabled": false,
 			"Map": [
-				"33"
+				"49"
 			],
 			"BalanceTiers": [
 				0,
