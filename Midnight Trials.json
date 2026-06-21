@@ -1,12 +1,13 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1782072735,
+	"Version": 1782073843,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
+				"306",
 				"0",
 				"3",
 				"285",
@@ -30,6 +31,7 @@
 				"25",
 				"60",
 				"246",
+				"301",
 				"27",
 				"28",
 				"286",
@@ -41,6 +43,7 @@
 				"108",
 				"43",
 				"280",
+				"303",
 				"268",
 				"267",
 				"46",
@@ -3409,7 +3412,6 @@
 				"12",
 				"13",
 				"14",
-				"15",
 				"16",
 				"17",
 				"18",
@@ -3444,7 +3446,6 @@
 				"108",
 				"43",
 				"44",
-				"45",
 				"268",
 				"267",
 				"46",
@@ -3915,6 +3916,7 @@
 				"60",
 				"246",
 				"28",
+				"273",
 				"31",
 				"33",
 				"34",
@@ -4003,21 +4005,24 @@
 				"130"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"15",
+				"45",
+				"85"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				91,
 				98,
 				84,
 				95,
 				94
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -4025,6 +4030,7 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						2,
 						4
 					]
 				},
@@ -4042,7 +4048,7 @@
 				}
 			},
 			"SurvivorOfferings": [
-				4
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -5238,7 +5244,8 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				318
+				318,
+				316
 			],
 			"ItemWhitelist": [
 				0,
