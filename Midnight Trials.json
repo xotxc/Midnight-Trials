@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1782073843,
+	"Version": 1784861639,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -36,6 +36,7 @@
 				"28",
 				"286",
 				"288",
+				"312",
 				"33",
 				"40",
 				"41",
@@ -101,6 +102,7 @@
 				"122",
 				"304",
 				"254",
+				"314",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -4946,7 +4948,12 @@
 				"103",
 				"124"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"246",
+					"101"
+				]
+			],
 			"SurvivorWhitelistedPerks": [
 				"246"
 			],
