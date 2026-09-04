@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1785546384,
+	"Version": 1788556852,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -87,6 +87,7 @@
 				"103",
 				"275",
 				"105",
+				"110",
 				"263",
 				"111",
 				"113",
@@ -123,6 +124,7 @@
 				"244",
 				"167",
 				"168",
+				"282",
 				"283",
 				"171",
 				"174",
@@ -134,8 +136,10 @@
 				"291",
 				"178",
 				"180",
+				"310",
 				"183",
 				"243",
+				"316",
 				"264",
 				"185",
 				"186",
@@ -152,6 +156,7 @@
 				"205",
 				"284",
 				"211",
+				"309",
 				"292",
 				"214",
 				"216",
@@ -4658,11 +4663,14 @@
 				"34",
 				"38",
 				"50",
+				"57",
 				"76",
 				"80",
 				"96",
+				"92",
 				"109",
 				"110",
+				"112",
 				"121",
 				"124",
 				"127",
@@ -5413,6 +5421,7 @@
 				"21",
 				"34",
 				"38",
+				"39",
 				"44",
 				"57",
 				"76",
@@ -5421,6 +5430,7 @@
 				"109",
 				"112",
 				"121",
+				"124",
 				"127",
 				"128",
 				"36"
@@ -5504,7 +5514,9 @@
 				"57",
 				"76",
 				"96",
+				"92",
 				"109",
+				"112",
 				"121",
 				"124",
 				"127",
@@ -5582,7 +5594,6 @@
 				"246",
 				"288",
 				"34",
-				"36",
 				"38",
 				"50",
 				"76",
@@ -5591,10 +5602,12 @@
 				"92",
 				"109",
 				"110",
+				"112",
 				"121",
 				"124",
 				"127",
-				"128"
+				"128",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -6100,6 +6113,7 @@
 				"92",
 				"109",
 				"110",
+				"112",
 				"121",
 				"124",
 				"127",
@@ -6374,13 +6388,18 @@
 			"SurvivorIndvPerkBans": [
 				"1",
 				"13",
+				"318",
 				"21",
 				"34",
 				"38",
 				"50",
+				"319",
+				"57",
 				"76",
 				"95",
 				"96",
+				"320",
+				"92",
 				"109",
 				"121",
 				"124",
@@ -7216,8 +7235,11 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"34",
 				"38",
 				"69",
+				"76",
+				"96",
 				"121",
 				"124",
 				"128",
@@ -7304,8 +7326,10 @@
 				"34",
 				"38",
 				"39",
+				"44",
 				"50",
 				"57",
+				"65",
 				"69",
 				"76",
 				"80",
@@ -7313,6 +7337,7 @@
 				"96",
 				"109",
 				"110",
+				"112",
 				"121",
 				"127",
 				"128",
@@ -7477,6 +7502,57 @@
 		},
 		{
 			"Name": "The Slasher",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Judgment",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
