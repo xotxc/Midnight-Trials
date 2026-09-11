@@ -1,6 +1,6 @@
 {
 	"Name": "Midnight Trials",
-	"Version": 1788557086,
+	"Version": 1789149075,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "1x Vigos Shroud\n1x Annotated Blueprint\n1x Bloodied Blueprint, 1x Cut Coin",
 	"Tiers": [
@@ -7337,6 +7337,7 @@
 				"80",
 				"95",
 				"96",
+				"92",
 				"109",
 				"110",
 				"112",
@@ -7454,7 +7455,7 @@
 		{
 			"Name": "The First",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -7505,7 +7506,7 @@
 		{
 			"Name": "The Slasher",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -7556,7 +7557,7 @@
 		{
 			"Name": "The Judgment",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
